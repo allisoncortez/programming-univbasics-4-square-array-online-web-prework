@@ -1,4 +1,4 @@
 def square_array(array)
-  while array.each do
-    puts num**2
+  while num **2 do
+    square_array([1,2,3])
 end
