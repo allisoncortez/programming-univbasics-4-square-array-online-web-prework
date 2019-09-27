@@ -1,4 +1,5 @@
 def square_array(array)
   array=[]
-  array.each<< i**2
+  while counter<array.length do
+    puts array**
 end
